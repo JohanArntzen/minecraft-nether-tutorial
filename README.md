@@ -9,8 +9,8 @@ Klar til å utforske Netthers flammende dyp? Følg denne trinnvise veiledningen 
 1. **Samle tre** 🌳  
    - Start med å slå på trær for å samle **trestokker**.  
    - Gjør stokkene om til **planker** og lag et **arbeidsbenk**.
-
-  ![arbeidsbenk](firstCraft.png)
+   
+   ![arbeidsbenk](firstCraft.png)
 
 2. **Lag treverktøy** 🪓  
    - Bruk plankene til å lage **pinner** og lag en **trehakke**.
