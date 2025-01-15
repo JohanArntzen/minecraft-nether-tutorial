@@ -62,9 +62,9 @@ Klar til å utforske Netthers flammende dyp? Følg denne trinnvise veiledningen 
 
 2. **Finn diamanter**  
    - Se etter **diamantmalm** på dype nivåer i hulen (under nivå Y-16).  
-   - Bruk **jernhakke** til å grave ut minst **3 diamanter**.  
+   - Bruk **jernhakke** til å grave ut minst **3 diamanter**.
    
-   ![diamondsLava](ironTools.png) 
+   ![diamondsLava](diamondsLava.png) 
 
 3. **Valgfritt**: Samle ekstra diamanter for rustning eller verktøy.
 
